@@ -25,7 +25,8 @@ Contact -> 01arnauperez@gmail.com
 
 <div align="center">
 
-|                    Name                     | Description                                                                                                                                                                                                                      |
-| :-----------------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [RANSAC](https://github.com/arnaupy/RANSAC) | <p align='justify'> RANSAC is an algorithm used for fiting models with posible large amount of noise that can get wors performance due to this outlier points. In this project, its build a model to fit noisy linear data. </p> |
+|                              Name                               | Description                                                                                                                                                                                                                                                                                              |
+| :-------------------------------------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|           [RANSAC](https://github.com/arnaupy/RANSAC)           | <p align='justify'> RANSAC is an algorithm used for fiting models with posible large amount of noise that can get wors performance due to this outlier points. In this project, its build a model to fit noisy linear data. </p>                                                                         |
+| [DigitRecognition](https://github.com/arnaupy/DigitRecognition) | <p align='justify'> App to recognize digits from 0 to 9. Using the new technology named flet, this project uses a simple computer vision model to train the famous [MNIST](https://pytorch.org/vision/main/generated/torchvision.datasets.MNIST.html) dataset to predict digits inpute by the user. </p> |
 </div>
